@@ -31,7 +31,7 @@ var facts = [
    var newArrayThree = [];
    do {
      newArrayThree.push ("I love the Beatles!");
-     num++;
+     Number++;
    } while (Number<15); 
    return newArrayThree;
  }
