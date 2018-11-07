@@ -30,7 +30,8 @@ var facts = [
  function iLoveTheBeatles (Number) {
    var newArrayThree = [];
    do {
-     newArrayThree.push ("I love the Beatles!")
+     newArrayThree.push ("I love the Beatles!");
+     num++;
    } while (Number<15); 
    return newArrayThree;
  }
